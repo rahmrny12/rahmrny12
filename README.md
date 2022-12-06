@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rahmrny12
-- 👀 I’m interested in web programming, specially in back end
-- 🌱 I’m currently learning laravel
+- 👋 Hi, I’m Rahmat Rendy Prayogo
+- 👀 I’m interested in mobile programming using Flutter
+- 🌱 Currently learning C# for Desktop Development
 
 <!---
 rahmrny12/rahmrny12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
