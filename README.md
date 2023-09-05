@@ -12,7 +12,7 @@
 - 💞️ I’m looking to collaborate with @jenirasekar avv
 - 🌱 Currently learning React JS for Website Development
   
-<div align="center">
+<div align="left">
 <a href="https://github.com/rahmrny12" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -74,10 +74,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmrny12&hide_border=true&layout=compact" align="left" />  
 
-![snake gif](https://github.com/rahmrny12/rahmrny12/blob/output/github-contribution-grid-snake.gif)
-
 <br/>  
-  
+
+![snake gif](https://github.com/rahmrny12/rahmrny12/blob/output/github-contribution-grid-snake.gif)
 
 <br/>  
 
