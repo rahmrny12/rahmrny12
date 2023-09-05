@@ -74,7 +74,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmrny12&hide_border=true&layout=compact" align="left" />  
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/rahmrny12/rahmrny12/blob/output/github-contribution-grid-snake.gif)
 
 <br/>  
   
