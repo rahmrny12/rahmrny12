@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rendy, a full-time full-stack freelance developer🚀</div>  
+### <div align="center">I'm Rendy, I want to be a full-stack developer🚀</div>  
   
 - 👋 Hi, I’m Rahmat Rendy Prayogo
 - 👀 Already experienced in web development using Laravel, Codeigniter, Etc.
