@@ -12,7 +12,7 @@
 - 💞️ I’m looking to collaborate with @jenirasekar avv
 - 🌱 Currently learning React JS for Website Development
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jenirasekar&label=Profile%20views&color=0e75b6&style=flat" alt="jenirasekar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmrny12&label=Profile%20views&color=0e75b6&style=flat" alt="rahmrny12" /> </p>
 <div align="left">
 <a href="https://github.com/rahmrny12" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
