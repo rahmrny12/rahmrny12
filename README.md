@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm Rendy, I want to be a full-stack developer🚀</div>  
+### <div align="center">I'm Rendy, I want to be an inovative developer🚀</div>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmrny12&label=Profile%20views&color=0e75b6&style=flat" alt="yahyasalamudin" /> </p>
 
