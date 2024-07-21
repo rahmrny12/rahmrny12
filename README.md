@@ -7,10 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmrny12&label=Profile%20views&color=0e75b6&style=flat" alt="yahyasalamudin" /> </p>
 
 - 👋 Hi, I’m Rahmat Rendy Prayogo
-- 👀 Already experienced in web development using Laravel, Codeigniter, Etc.
-- 👀 Used to problem solving on CSS and Javascript
+- 📜 Already experienced in web development using Laravel, Codeigniter, Etc.
+- 🔍 Used to problem solving on CSS and Javascript
 - 👀 I’m interested in mobile programming using Flutter
-- 💞️ I’m looking to collaborate with @jenirasekar avv
 - 🌱 Currently learning React JS and another JS tech stack for Website Development
 
   <br/>
